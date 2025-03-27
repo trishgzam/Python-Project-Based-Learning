@@ -16,3 +16,8 @@
   <li><b>pandas library</b> for handling and processing structures data with DataFrames</li>
   <li><b>NumPy library</b> for numerical computations</li>
 </ul>
+
+<h2>Preview</h2>
+<img 
+  src= "preview.png" 
+  alt="project-preview">
